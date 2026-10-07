@@ -1,7 +1,12 @@
+ #include <iostream>
+ #include<string>
+ using namespace std;
+
 int main()
 {
     // 1. Atendimento do cliente
     // saldo , inicialização do extrato
+
 
 
 
