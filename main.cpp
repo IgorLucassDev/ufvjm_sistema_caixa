@@ -27,7 +27,7 @@ int main()
 
         if(saque <= 0){
 
-            cout << "Saldo invalido" << endl;
+            cout << "Saque invalido" << endl;
 
         }else if(saque > saldo){
 
