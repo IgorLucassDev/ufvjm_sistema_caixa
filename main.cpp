@@ -1,3 +1,5 @@
+//Trabalho de AEDS1, Alunos: Igor Lucas, Raul dos Santos, M. Granzotto
+
 #include <iostream>
 #include <limits>
 #include <cctype>
